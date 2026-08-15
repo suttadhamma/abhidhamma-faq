@@ -1,0 +1,27 @@
+{
+  "title": "อภิธรรม FAQ",
+  "description": "คำถามและคำตอบเกี่ยวกับพระอภิธรรม",
+  "version": "1.0",
+  "files": [
+    {
+      "file": "faq-01.json",
+      "title": "อภิธรรม FAQ ชุดที่ ๑"
+    },
+    {
+      "file": "faq-02.json",
+      "title": "อภิธรรม FAQ ชุดที่ ๒"
+    },
+    {
+      "file": "faq-03.json",
+      "title": "อภิธรรม FAQ ชุดที่ ๓"
+    },
+    {
+      "file": "faq-04.json",
+      "title": "อภิธรรม FAQ ชุดที่ ๔"
+    },
+    {
+      "file": "faq-05.json",
+      "title": "อภิธรรม FAQ ชุดที่ ๕"
+    }
+  ]
+}
